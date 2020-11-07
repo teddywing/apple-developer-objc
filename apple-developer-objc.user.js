@@ -3,7 +3,7 @@
 // @description Force Objective-C documentation
 // @namespace com.teddywing
 // @version 0.0.1
-// @match https://developer.apple.com/*
+// @match https://developer.apple.com/documentation/*
 // ==/UserScript==
 
 // Copyright (c) 2020  Teddy Wing
